@@ -1,12 +1,11 @@
 package com.wissem.javafxdemo;
 
-import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-public class HelloApplication extends Application {
+public class Application extends javafx.application.Application {
 
   public static void main(String[] args) {
     launch(args);
